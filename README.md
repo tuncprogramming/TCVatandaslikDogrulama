@@ -8,6 +8,7 @@ Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için ku
 - KPSPublic SOAP servisini kullanarak gerçek zamanlı vatandaşlık doğrulaması.
 - Kullanıcı girdilerinin geçerliliğini kontrol etmek için ErrorProvider ile hata kontrolü.
 - Doğrulama süreci sırasında kullanıcıya bir yükleniyor (loading) paneli gösterimi.
+- OOP (Nesne Yönelimli Programlama) ve asenkron programlama kullanımı.
 
 ## Kullanılan Teknolojiler
 
@@ -15,6 +16,7 @@ Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için ku
 - **DevExpress**: Form elemanları ve hata sağlayıcı (DXErrorProvider) için kullanılan kütüphane.
 - **KPSPublic SOAP Servisi**: Türkiye Cumhuriyeti vatandaşlık numarasını doğrulamak için kullanılan servis.
 - **.NET Framework**: Proje .NET Framework üzerinde geliştirilmiştir.
+- **OOP ve Asenkron Programlama**: Nesne yönelimli yapılar ve asenkron işlemlerle performans optimizasyonu sağlanmıştır.
 
 ## Kurulum ve Kullanım
 
@@ -30,5 +32,5 @@ Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için ku
 1. **Projeyi Klonlayın:**
 
    ```bash
-   git clone https://github.com/htunc29/tc-vatandaslik-dogrulama.git
-   cd tc-vatandaslik-dogrulama
+   git clone https://github.com/htunc29/TCVatandaslikDogrulama
+   cd TCVatandaslikDogrulama
