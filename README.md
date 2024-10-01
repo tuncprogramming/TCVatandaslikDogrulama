@@ -13,7 +13,7 @@ Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için ku
 ## Kullanılan Teknolojiler
 
 - **C#**: Ana programlama dili.
-- **DevExpress**: Form elemanları ve hata sağlayıcı (DXErrorProvider) için kullanılan kütüphane.
+- **DevExpress**: Form elemanları ve Loading panel  için kullanılan kütüphane.
 - **KPSPublic SOAP Servisi**: Türkiye Cumhuriyeti vatandaşlık numarasını doğrulamak için kullanılan servis.
 - **.NET Framework**: Proje .NET Framework üzerinde geliştirilmiştir.
 - **OOP ve Asenkron Programlama**: Nesne yönelimli yapılar ve asenkron işlemlerle performans optimizasyonu sağlanmıştır.
