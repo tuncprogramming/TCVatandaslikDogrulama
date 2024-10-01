@@ -62,7 +62,7 @@ namespace NationalStatus
             if (result)
             {
                 progressPanel1.Visible = false;
-                MessageBox.Show("Vatandaşlık Doğrulandı", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Vatandaşlık Başarı ile Doğrulandı", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
